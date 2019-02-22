@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="540" src="./WordPress_logo.svg" alt="WordPress Logo">
+</p>
+
 # Awesome WordPress
 
 > A curated list of awesome things related to WordPress
