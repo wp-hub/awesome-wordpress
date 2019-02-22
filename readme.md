@@ -11,6 +11,12 @@
 
 - [Frameworks](#frameworks)
 
+- [Themes](#themes)
+
+- [Plugins](#plugins)
+  - [Performance](#performance)
+  - [E-commerce](#e-commerce)
+
 - [Projects Using WordPress](#projects-using-wordpress)
 
 ## Resources
@@ -22,3 +28,21 @@
 - [Release Notes](https://wordpress.org/news/category/releases/)
 - [WordPress Codex](https://codex.wordpress.org/)
 - [WordPress News](https://wordpress.org/news/)
+
+## Frameworks
+
+## Themes
+
+## Plugins
+
+### Performance
+
+### Security
+
+- [Wordfence Security](https://wordpress.org/plugins/wordfence/)
+
+### E-commerce
+
+- [WooCommerce](https://wordpress.org/plugins/woocommerce/)
+
+## Projects Using WordPress
