@@ -11,10 +11,15 @@
 
 - [Frameworks](#frameworks)
 
+- [Libraries](#libraries)
+
+- [Starter Themes](#starter-themes)
+
 - [Themes](#themes)
 
 - [Plugins](#plugins)
   - [Performance](#performance)
+  - [Security](#security)
   - [E-commerce](#e-commerce)
 
 - [Projects Using WordPress](#projects-using-wordpress)
@@ -31,6 +36,18 @@
 
 ## Frameworks
 
+## Libraries
+
+- [WP Bootstrap Navwalker](https://wp-bootstrap.github.io/wp-bootstrap-navwalker/)
+- [Carbon Fields](https://carbonfields.net/) - WordPress Custom Fields Library
+- [PostTypes](https://github.com/jjgrainger/PostTypes) - Simple WordPress Custom Post Types
+
+## Starter Themes
+
+- [Roots](https://roots.io/sage/)
+- [Underscores](http://underscores.me/)
+- [FoundationPress](https://foundationpress.olefredrik.com/)
+
 ## Themes
 
 ## Plugins
@@ -40,6 +57,10 @@
 ### Security
 
 - [Wordfence Security](https://wordpress.org/plugins/wordfence/)
+
+### Page Builders
+
+- [Elementor](https://elementor.com/)
 
 ### E-commerce
 
