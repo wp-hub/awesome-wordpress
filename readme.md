@@ -36,6 +36,9 @@
 
 ## Frameworks
 
+- [Bedrock](https://roots.io/bedrock/) by Roots
+- [Themosis](https://framework.themosis.com/)
+
 ## Libraries
 
 - [WP Bootstrap Navwalker](https://wp-bootstrap.github.io/wp-bootstrap-navwalker/)
