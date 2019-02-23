@@ -44,7 +44,7 @@
 
 ## Starter Themes
 
-- [Roots](https://roots.io/sage/)
+- [Sage](https://roots.io/sage/) by Roots
 - [Underscores](http://underscores.me/)
 - [FoundationPress](https://foundationpress.olefredrik.com/)
 
