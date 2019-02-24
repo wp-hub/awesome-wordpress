@@ -18,6 +18,7 @@
 - [Themes](#themes)
 
 - [Plugins](#plugins)
+  - [Backup](#backup)
   - [Performance](#performance)
   - [Security](#security)
   - [E-commerce](#e-commerce)
@@ -53,6 +54,11 @@
 ## Themes
 
 ## Plugins
+
+### Backup
+
+- [Akeeba Backup](https://www.akeebabackup.com/products/akeeba-backup-wordpress.html)
+- [Duplicator](https://ru.wordpress.org/plugins/duplicator/)
 
 ### Performance
 
