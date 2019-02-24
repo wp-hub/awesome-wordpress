@@ -54,12 +54,6 @@
 
 ## Plugins
 
-## Code Generators
-
-- [wp-hasty](https://www.wp-hasty.com/)
-- [GenerateWP](https://generatewp.com/)
-- [Nimbusthemes Generator](https://www.nimbusthemes.com/wordpress-code-generators/)
-
 ### Performance
 
 ### Security
@@ -74,5 +68,11 @@
 ### E-commerce
 
 - [WooCommerce](https://wordpress.org/plugins/woocommerce/)
+
+## Code Generators
+
+- [wp-hasty](https://www.wp-hasty.com/)
+- [GenerateWP](https://generatewp.com/)
+- [Nimbusthemes Generator](https://www.nimbusthemes.com/wordpress-code-generators/)
 
 ## Projects Using WordPress
