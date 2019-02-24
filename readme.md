@@ -22,6 +22,8 @@
   - [Security](#security)
   - [E-commerce](#e-commerce)
 
+- [Code Generators](#code-generators)
+
 - [Projects Using WordPress](#projects-using-wordpress)
 
 ## Resources
@@ -35,9 +37,6 @@
 - [WordPress News](https://wordpress.org/news/)
 
 ## Frameworks
-
-- [Bedrock](https://roots.io/bedrock/) by Roots
-- [Themosis](https://framework.themosis.com/)
 
 ## Libraries
 
@@ -60,6 +59,7 @@
 ### Security
 
 - [Wordfence Security](https://wordpress.org/plugins/wordfence/)
+- [iThemes Security](https://ru.wordpress.org/plugins/better-wp-security/)
 
 ### Page Builders
 
@@ -68,5 +68,11 @@
 ### E-commerce
 
 - [WooCommerce](https://wordpress.org/plugins/woocommerce/)
+
+## Code Generators
+
+- [wp-hasty](https://www.wp-hasty.com/)
+- [GenerateWP](https://generatewp.com/)
+- [Nimbusthemes Generator](https://www.nimbusthemes.com/wordpress-code-generators/)
 
 ## Projects Using WordPress
