@@ -41,6 +41,8 @@
 
 ## Frameworks
 
+- [Unyson](http://unyson.io/)
+
 ## Libraries
 
 - [WP Bootstrap Navwalker](https://wp-bootstrap.github.io/wp-bootstrap-navwalker/)
@@ -91,3 +93,4 @@
 - [Plugin Top 120](http://wp-info.org/plugin-top120/)
 - [Cheatsheat(ru)](https://wp-kama.ru/handbook/cheatsheet)
 - [Visual Hook Guide For Woocommerce](https://businessbloomer.com/category/woocommerce-tips/visual-hook-series/)
+- [TGM Plugin Activation](http://tgmpluginactivation.com)
