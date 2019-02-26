@@ -27,6 +27,8 @@
 
 - [Projects Using WordPress](#projects-using-wordpress)
 
+- [Other](#other)
+
 ## Resources
 
 ### Official Resources
@@ -50,6 +52,7 @@
 - [Sage](https://roots.io/sage/) by Roots
 - [Underscores](http://underscores.me/)
 - [FoundationPress](https://foundationpress.olefredrik.com/)
+- [Understrap](https://understrap.com/)
 
 ## Themes
 
@@ -82,3 +85,9 @@
 - [Nimbusthemes Generator](https://www.nimbusthemes.com/wordpress-code-generators/)
 
 ## Projects Using WordPress
+
+## Other
+
+- [Plugin Top 120](http://wp-info.org/plugin-top120/)
+- [Cheatsheat(ru)](https://wp-kama.ru/handbook/cheatsheet)
+- [Visual Hook Guide For Woocommerce](https://businessbloomer.com/category/woocommerce-tips/visual-hook-series/)
