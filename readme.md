@@ -13,6 +13,8 @@
 
 - [Libraries](#libraries)
 
+- [Utilities](#utilities)
+
 - [Starter Themes](#starter-themes)
 
 - [Themes](#themes)
@@ -44,6 +46,10 @@
 - [WP Bootstrap Navwalker](https://wp-bootstrap.github.io/wp-bootstrap-navwalker/)
 - [Carbon Fields](https://carbonfields.net/) - WordPress Custom Fields Library
 - [PostTypes](https://github.com/jjgrainger/PostTypes) - Simple WordPress Custom Post Types
+
+## Utilities
+
+- [GitHub Updater](https://github.com/afragen/github-updater)
 
 ## Starter Themes
 
