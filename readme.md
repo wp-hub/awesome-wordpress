@@ -24,6 +24,7 @@
   - [Performance](#performance)
   - [Security](#security)
   - [E-commerce](#e-commerce)
+  - [SEO](#seo)
 
 - [Code Generators](#code-generators)
 
@@ -80,6 +81,10 @@
 ### E-commerce
 
 - [WooCommerce](https://wordpress.org/plugins/woocommerce/)
+
+### SEO
+
+- [Rank Math](https://ru.wordpress.org/plugins/seo-by-rank-math/)
 
 ## Code Generators
 
