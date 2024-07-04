@@ -90,6 +90,7 @@
 ### SEO
 
 - [Rank Math](https://ru.wordpress.org/plugins/seo-by-rank-math/)
+- [PressProxy](https://pressproxy.io/)
 
 ## Code Generators
 
