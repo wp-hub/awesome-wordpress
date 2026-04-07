@@ -25,6 +25,7 @@
   - [Security](#security)
   - [E-commerce](#e-commerce)
   - [SEO](#seo)
+- [Alt Audit](https://wordpress.org/plugins/alt-audit/) - Bulk alt text manager and image SEO plugin for WordPress. Scans media library, generates WCAG-compliant alt text using AI or free rule-based templates. SaaS platform at altaudit.com
 
 - [Code Generators](#code-generators)
 
