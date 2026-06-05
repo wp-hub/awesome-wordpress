@@ -71,6 +71,7 @@
 
 - [Akeeba Backup](https://www.akeebabackup.com/products/akeeba-backup-wordpress.html)
 - [Duplicator](https://ru.wordpress.org/plugins/duplicator/)
+- [Nota Backup & Restore](https://wordpress.org/plugins/nota-backup-restore/) - Chunked ZIP backup, AES-256 encrypted database export, and standalone migration installer for WordPress.
 
 ### Performance
 
